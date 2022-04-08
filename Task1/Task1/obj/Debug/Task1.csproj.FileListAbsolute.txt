@@ -1,0 +1,8 @@
+E:\ITI\C#\Day1\lab1\Task1\Task1\bin\Debug\Task1.exe.config
+E:\ITI\C#\Day1\lab1\Task1\Task1\bin\Debug\Task1.exe
+E:\ITI\C#\Day1\lab1\Task1\Task1\bin\Debug\Task1.pdb
+E:\ITI\C#\Day1\lab1\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+E:\ITI\C#\Day1\lab1\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+E:\ITI\C#\Day1\lab1\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Day1\lab1\Task1\Task1\obj\Debug\Task1.exe
+E:\ITI\C#\Day1\lab1\Task1\Task1\obj\Debug\Task1.pdb
